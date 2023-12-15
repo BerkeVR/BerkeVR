@@ -8,9 +8,9 @@ Hello World I m 1years on is write code I started with Python I am currently lea
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [Berketilki80801@gmail.com](mailto:Berketilki80801@gmail.com)
-* 🧠  I'm learning C#
+* 🧠  I'm learning Php
 * 🤝  I'm open to collaborating on Python
-* ⚡  I'm currently dealing with cybersecurity apart from learning c#
+* ⚡  I'm currently dealing with cybersecurity apart from learning Php
 
 <a href="https://www.github.com/BerkeVR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BerkeVR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
