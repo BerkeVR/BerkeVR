@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
-<h3 align="center">"Web Developer | CTF Solver | Cybersecurity Reachers</h3>
+<h3 align="center">"Web Developer | CTF Solver | Cybersecurity Reachers"</h3>
 
 - 🌱 I’m currently learning **Ruby**
 
