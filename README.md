@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkevr&show_icons=true&locale=en" alt="berkevr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkevr&" alt="berkevr" /></p>
-
-![snake gif](https://github.com/BerkeVR/BerkeVR/blob/output/github-contribution-grid-snake.gif)
